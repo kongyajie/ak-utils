@@ -1,0 +1,23 @@
+{
+  "name": "@aaronkong/ak-utils",
+  "version": "1.0.0",
+  "description": "A common javascript utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kongyajie/ak-utils.git"
+  },
+  "keywords": [
+    "js",
+    "utils"
+  ],
+  "author": "Aaron Kong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kongyajie/ak-utils/issues"
+  },
+  "homepage": "https://github.com/kongyajie/ak-utils#readme"
+}
